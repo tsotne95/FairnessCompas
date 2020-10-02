@@ -1,6 +1,6 @@
 # Fairness classifier for Compas dataset
 
-Accorrding data Black defendants are 44% more likely than white defendants to receive a higher score correcting for the seriousness of their crime, previous arrests, and future criminal behavior.
+According data Black defendants are 44% more likely than white defendants to receive a higher score correcting for the seriousness of their crime, previous arrests, and future criminal behavior.
 
 So, for the new classifier used two different threshold.
 
